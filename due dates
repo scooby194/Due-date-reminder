@@ -13,3 +13,13 @@ git commit -m "Total.py"
 git push origin main
 
 
+git branch Ryansbranch
+git checkout Ryansbranch
+
+git checkout -b Ryansbranch
+
+git add .
+git commit -m "Add README.md Ryan"
+
+git push origin Ryansbranch
+
