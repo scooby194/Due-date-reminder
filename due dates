@@ -1,7 +1,15 @@
-echo "# Due-date-reminder" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:scooby194/Due-date-reminder.git
-git push -u origin main
+cd path/to/your/local/repository
+# Copy the project file to this directory
+
+git status
+# Check the status of your repository
+
+git add .
+# Stage all changes (or specify individual files)
+
+git commit -m "Add project file"
+# Commit the staged changes with a descriptive message
+
+git push origin main
+# Push changes to GitHub on the main branch
+
