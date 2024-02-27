@@ -7,7 +7,7 @@ git status
 git add .
 
 
-git commit -m "Total.py"
+git commit -m "scooby194's reminder"
 
 
 git push origin main
